@@ -1,0 +1,4 @@
+content jssh chrome/chromeFiles/content/
+
+
+overlay chrome://browser/content/browser.xul chrome://jssh/content/tasksOverlay.xul 
